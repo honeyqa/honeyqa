@@ -1,2 +1,2 @@
 # honeyqa
-honeyqa main repo
+https://github.com/swmaestro6th-crashreport
